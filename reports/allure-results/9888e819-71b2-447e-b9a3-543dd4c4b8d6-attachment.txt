@@ -1,0 +1,10 @@
+🎯 Starting browser: chromium
+🎯 Headless mode: False (headed=True)
+🌐 Navigating to: https://www.medtransgo.com/
+📹 Tracing enabled - capturing screenshots and actions
+📊 Test 'test_mtg_homepage' result: ❌ FAILED
+💾 Trace saved: reports/traces/test_mtg_homepage_trace.zip
+📸 Screenshot saved: reports/screenshots/test_mtg_homepage.png
+📎 Screenshot attached to Allure report
+🎥 Video attached to Allure report
+🧹 Closing browser context and stopping Playwright...
